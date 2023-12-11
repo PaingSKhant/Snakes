@@ -1,0 +1,34 @@
+body,
+html {
+  height: 100%;
+}
+
+h1,
+h3,
+button,
+p {
+  font-family: monospace;
+}
+
+#snakeButton {
+  background-color: #20b2aa;
+}
+
+#snakeCard {
+  background-color: PowderBlue;
+}
+
+#dangerLetter {
+  color: coral;
+}
+
+.bg {
+  /* The image used */
+  background-image: url(./coverImg/cover.jpg);
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
