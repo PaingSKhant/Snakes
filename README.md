@@ -5,3 +5,5 @@
 မြွေပုံကိုနှိပ်၍ ထိုမြွေနှင့်ပတ်သက်သော အကြောင်းအရာ၊ အဆိပ်ရှိမရှိ၊ အန္တရာယ်ရှိမရှိ ကိုဖတ်ရှုနိုင်ပါသည်။
 
 project idea by -> https://github.com/sannlynnhtun-coding
+
+![SNAKES](./coverImg/Screenshot%202023-12-16%20101730.png) ![SNAKES](./coverImg/Screenshot%202023-12-16%20101749.png)
